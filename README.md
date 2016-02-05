@@ -13,7 +13,7 @@ python nametag.py -p Bumble Rocket, test
 ```
 Results in an image like this, with an accompanying PDF:
 
-[BumbleRocket](Bumble_Rocket-name-tag.jpg)
+![BumbleRocket](Bumble_Rocket-name-tag.jpg)
 
 For multiple users, simply repeat the flag:
 
